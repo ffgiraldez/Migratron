@@ -16,6 +16,13 @@
         <module>library</module>
     </modules>
 
+    <scm>
+        <url>https://github.com/ffgiraldez/Migratron</url>
+        <connection>scm:git:git://github.com/ffgiraldez/Migratron.git</connection>
+        <developerConnection>scm:git:git@github.com:ffgiraldez/Migratron.git</developerConnection>
+    </scm>
+
+
     <packaging>pom</packaging>
 
     <properties>
