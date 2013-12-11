@@ -1,8 +1,8 @@
-package es.ffgiraldez.migratron;
+package com.github.ffgiraldez.migratron;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import es.ffgiraldez.migratron.internal.MigratronTestRunner;
+import com.github.ffgiraldez.migratron.internal.MigratronTestRunner;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

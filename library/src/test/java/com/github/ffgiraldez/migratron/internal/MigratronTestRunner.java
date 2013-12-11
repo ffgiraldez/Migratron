@@ -1,4 +1,4 @@
-package es.ffgiraldez.migratron.internal;
+package com.github.ffgiraldez.migratron.internal;
 
 import org.junit.runners.model.InitializationError;
 import org.robolectric.AndroidManifest;

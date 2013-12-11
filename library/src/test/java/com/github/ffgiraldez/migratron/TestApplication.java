@@ -1,4 +1,4 @@
-package es.ffgiraldez.migratron;
+package com.github.ffgiraldez.migratron;
 
 import android.app.Application;
 

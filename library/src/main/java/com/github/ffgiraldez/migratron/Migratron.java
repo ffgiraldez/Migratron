@@ -1,4 +1,4 @@
-package es.ffgiraldez.migratron;
+package com.github.ffgiraldez.migratron;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -13,7 +13,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 /**
- * Manage {@link es.ffgiraldez.migratron.Migration} elements to run one per application update.
+ * Manage {@link com.github.ffgiraldez.migratron.Migration} elements to run one per application update.
  * @author Fernando Franco Giráldez
  */
 @RequiredArgsConstructor
@@ -39,7 +39,7 @@ public class Migratron {
 
     /**
      * Add a Migration code to execute in the specified version code.
-     * @param versionCode the version of the app to run the {@link es.ffgiraldez.migratron.Migration}
+     * @param versionCode the version of the app to run the {@link com.github.ffgiraldez.migratron.Migration}
      * @param migration the code to execute.
      */
     public void addMigration(int versionCode,Migration migration) {

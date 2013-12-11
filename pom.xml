@@ -10,7 +10,7 @@
     <version>7</version>
   </parent>
 
-  <groupId>es.ffgiraldez.migratron</groupId>
+  <groupId>com.github.ffgiraldez.migratron</groupId>
   <artifactId>migratron-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
 

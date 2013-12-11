@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <artifactId>migratron-parent</artifactId>
-    <groupId>es.ffgiraldez.migratron</groupId>
+    <groupId>com.github.ffgiraldez.migratron</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
 

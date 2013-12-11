@@ -2,6 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           android:versionCode="8000"
           android:versionName="0.5"
-          package="es.ffgiraldez.migratron">
+          package="com.github.ffgiraldez.migratron">
     <application android:name=".Application"/>
 </manifest>
