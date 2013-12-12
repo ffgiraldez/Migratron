@@ -127,7 +127,6 @@
             <tagNameFormat>@{project.version}</tagNameFormat>
             <autoVersionSubmodules>true</autoVersionSubmodules>
             <localCheckout>true</localCheckout>
-            <dryRun>true</dryRun>
           </configuration>
         </plugin>
 
